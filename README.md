@@ -23,10 +23,8 @@
 - Adam, RMSprop, SGD 등
 
 ### 6. 평가 지표
-
-### 7. 정확도(Accuracy), 정밀도(Precision), 재현율(Recall)
+- 정확도(Accuracy), 정밀도(Precision), 재현율(Recall)
 - F1 점수, ROC 곡선, AUC 등
-
 
 ### 7. 과적합 방지 기법:
 - 드롭아웃(Dropout)
@@ -46,4 +44,4 @@
 
 이진 분류는 많은 실제 문제에 적용될 수 있는 기본적이면서도 중요한 작업입니다. 딥러닝을 통해 복잡한 특징을 자동으로 학습할 수 있어, 전통적인 방법보다 더 높은 성능을 낼 수 있습니다.
 
-#### [▶︎ 이론 및 실습](https://github.com/hwd0ng/ML_KNN/blob/main/KNN_%E1%84%8B%E1%85%A1%E1%86%AF%E1%84%80%E1%85%A9%E1%84%85%E1%85%B5%E1%84%8C%E1%85%B3%E1%86%B7%20%E1%84%87%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8.ipynb)
+#### [▶︎ 실습](https://github.com/hwd0ng/ML_KNN/blob/main/KNN_%E1%84%8B%E1%85%A1%E1%86%AF%E1%84%80%E1%85%A9%E1%84%85%E1%85%B5%E1%84%8C%E1%85%B3%E1%86%B7%20%E1%84%87%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8.ipynb)
